@@ -1,4 +1,21 @@
-.App {
+p {
+  color: #9c7557;
+}
+
+.countdown {
+  text-align: center;
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+img {
+  margin: 20px auto 20px auto;
+
+  width: 100%;
+  height: 100%;
+}
+
+/* .App {
   text-align: center;
 }
 
@@ -35,4 +52,4 @@
   to {
     transform: rotate(360deg);
   }
-}
+} */
