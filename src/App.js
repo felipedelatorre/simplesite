@@ -42,6 +42,7 @@ function App() {
         <p>{weeksToCamilla} weeks</p>
         <p>{monthsToCamilla} months</p>
       </div>
+      <div className="emoji">🐰🐒</div>
     </div>
   );
 }
